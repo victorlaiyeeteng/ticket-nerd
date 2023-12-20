@@ -1,0 +1,7 @@
+/Users/victorlai/Downloads/ticket-nerd/ticket-service/src/main/java/com/ticketnerd/ticketservice/dto/TicketRequest.java
+/Users/victorlai/Downloads/ticket-nerd/ticket-service/src/main/java/com/ticketnerd/ticketservice/TicketServiceApplication.java
+/Users/victorlai/Downloads/ticket-nerd/ticket-service/src/main/java/com/ticketnerd/ticketservice/model/Ticket.java
+/Users/victorlai/Downloads/ticket-nerd/ticket-service/src/main/java/com/ticketnerd/ticketservice/controller/TicketController.java
+/Users/victorlai/Downloads/ticket-nerd/ticket-service/src/main/java/com/ticketnerd/ticketservice/repository/TicketRepository.java
+/Users/victorlai/Downloads/ticket-nerd/ticket-service/src/main/java/com/ticketnerd/ticketservice/service/TicketService.java
+/Users/victorlai/Downloads/ticket-nerd/ticket-service/src/main/java/com/ticketnerd/ticketservice/dto/TicketResponse.java

@@ -1,0 +1,10 @@
+com/ticketnerd/ticketservice/dto/TicketResponse.class
+com/ticketnerd/ticketservice/repository/TicketRepository.class
+com/ticketnerd/ticketservice/controller/TicketController.class
+com/ticketnerd/ticketservice/model/Ticket$TicketBuilder.class
+com/ticketnerd/ticketservice/dto/TicketRequest$TicketRequestBuilder.class
+com/ticketnerd/ticketservice/model/Ticket.class
+com/ticketnerd/ticketservice/dto/TicketRequest.class
+com/ticketnerd/ticketservice/dto/TicketResponse$TicketResponseBuilder.class
+com/ticketnerd/ticketservice/TicketServiceApplication.class
+com/ticketnerd/ticketservice/service/TicketService.class

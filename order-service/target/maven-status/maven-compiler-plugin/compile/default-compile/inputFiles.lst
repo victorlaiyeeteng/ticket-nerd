@@ -1,0 +1,8 @@
+/Users/victorlai/Downloads/ticket-nerd/order-service/src/main/java/com/ticketnerd/orderservice/repository/OrderRepository.java
+/Users/victorlai/Downloads/ticket-nerd/order-service/src/main/java/com/ticketnerd/orderservice/controller/OrderController.java
+/Users/victorlai/Downloads/ticket-nerd/order-service/src/main/java/com/ticketnerd/orderservice/dto/OrderLineItemsDto.java
+/Users/victorlai/Downloads/ticket-nerd/order-service/src/main/java/com/ticketnerd/orderservice/model/Order.java
+/Users/victorlai/Downloads/ticket-nerd/order-service/src/main/java/com/ticketnerd/orderservice/OrderServiceApplication.java
+/Users/victorlai/Downloads/ticket-nerd/order-service/src/main/java/com/ticketnerd/orderservice/service/OrderService.java
+/Users/victorlai/Downloads/ticket-nerd/order-service/src/main/java/com/ticketnerd/orderservice/dto/OrderRequest.java
+/Users/victorlai/Downloads/ticket-nerd/order-service/src/main/java/com/ticketnerd/orderservice/model/OrderLineItems.java
