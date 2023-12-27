@@ -23,7 +23,7 @@ public class GameServiceApplication {
 
 			Game game1 = new Game();
 			game1.setCode("Nets 30/12/2023");
-			game1.setTotalSeats(800);
+			game1.setTotalSeats(0);
 
 			gameRepository.save(game);
 			gameRepository.save(game1);

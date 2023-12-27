@@ -1,5 +1,5 @@
-/Users/victorlai/Downloads/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/service/GameService.java
-/Users/victorlai/Downloads/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/controller/GameController.java
-/Users/victorlai/Downloads/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/model/Game.java
-/Users/victorlai/Downloads/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/repository/GameRepository.java
-/Users/victorlai/Downloads/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/GameServiceApplication.java
+/Users/victorlai/Documents/my projects/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/controller/GameController.java
+/Users/victorlai/Documents/my projects/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/service/GameService.java
+/Users/victorlai/Documents/my projects/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/model/Game.java
+/Users/victorlai/Documents/my projects/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/GameServiceApplication.java
+/Users/victorlai/Documents/my projects/ticket-nerd/game-service/src/main/java/com/ticketnerd/gameservice/repository/GameRepository.java
