@@ -1,6 +1,6 @@
 # Ticket Nerd
 
-Welcome to Ticket Nerd, a microservices project designed to emulate sports ticketing processes. This project is built using Java, Spring Boot, MySQL, MongoDB, and managed with Maven.
+Welcome to Ticket Nerd, a microservices project designed to emulate a simplified sports ticketing system. This project is built using Java, Spring Boot, MySQL, MongoDB, and managed with Maven.
 
 ## Overview
 
@@ -28,3 +28,10 @@ To get started with Ticket Nerd, follow these steps:
 
    ```bash
    git clone https://github.com/victorlaiyeeteng/ticket-nerd.git
+   
+2. Currently, the services have to be run individually for the ticketing system to work.
+
+## Work In Progress
+
+* Service Discovery
+* API Gateway
